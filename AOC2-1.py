@@ -27,4 +27,4 @@ for l in ls1:
     if asc or desc:
         total += 1
 
-print(total)  # >>
+print(total)  # >>572
